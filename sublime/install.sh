@@ -8,4 +8,4 @@ cp -r /tmp/Package\ Control.sublime-package $HOME/Library/Application\ Support/S
 
 # Link the settings/theme
 ln -s $HOME/.dotfiles/sublime/Preferences.sublime-settings $HOME/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/Preferences.sublime-settings
-ln -s $HOME/.dotfiles/sublime/One\ Half\ Color\ Schemes.sublime-package $HOME/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages/One\ Half\ Color\ Schemes.sublime-packages
+ln -s $HOME/.dotfiles/sublime/One\ Half\ Color\ Schemes.sublime-package $HOME/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages/One\ Half\ Color\ Schemes.sublime-package
