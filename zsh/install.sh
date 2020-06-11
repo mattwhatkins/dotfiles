@@ -13,3 +13,6 @@ git clone https://github.com/zsh-users/zsh-completions $HOME/.oh-my-zsh/custom/p
 
 # link zshrc file
 ln -sf $HOME/.dotfiles/zsh/zshrc $HOME/.zshrc
+
+# Install theme
+ln -s $HOME/.dotfiles/zsh/simple-modified.zsh-theme $HOME/.oh-my-zsh/themes/simple-modified.zsh-theme
