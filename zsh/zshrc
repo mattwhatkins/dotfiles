@@ -1,8 +1,8 @@
 # iPath to your oh-my-zsh installation.
-export ZSH="/Users/mwatkins/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="simple"
+ZSH_THEME="simple-modified"
 
 # Which plugins would you like to load?
 # Standard plugins can be found in $ZSH/plugins/
