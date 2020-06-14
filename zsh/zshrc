@@ -22,3 +22,4 @@ alias history="history 1"
 alias plzbrew="sudo chown -R $(whoami) /usr/local/bin /usr/local/lib /usr/local/sbin && chmod u+w /usr/local/bin /usr/local/lib /usr/local/sbin"
 
 source $ZSH/oh-my-zsh.sh
+export PATH="/usr/local/opt/openjdk/bin:$PATH"
