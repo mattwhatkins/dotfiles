@@ -16,3 +16,7 @@ ln -sf $HOME/.dotfiles/zsh/zshrc $HOME/.zshrc
 
 # Install theme
 ln -s $HOME/.dotfiles/zsh/simple-modified.zsh-theme $HOME/.oh-my-zsh/themes/simple-modified.zsh-theme
+
+# Fix zsh folder permissions (due to brew?)
+chmod 755 /usr/local/share/zsh
+chmod 755 /usr/local/share/zsh/site-functions
